@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eternal.acinfinity",
+      "sha256_cert_fingerprints": ["48:D2:3C:CA:B8:AC:60:52:F1:4E:81:36:EE:34:3C:51:32:C6:B9:6A:4A:4F:C2:5E:84:76:4D:29:6D:8E:53:F6"]
+    }
+  }
+]
